@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ControlIfElseNombreApellido/ControlIfElseNombreApellido.iml" filepath="$PROJECT_DIR$/ControlIfElseNombreApellido/ControlIfElseNombreApellido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlSwitchVanessaMiranda/ControlSwitchVanessaMiranda.iml" filepath="$PROJECT_DIR$/ControlSwitchVanessaMiranda/ControlSwitchVanessaMiranda.iml" />
       <module fileurl="file://$PROJECT_DIR$/proyecto-01-hola-mundo.iml" filepath="$PROJECT_DIR$/proyecto-01-hola-mundo.iml" />
     </modules>
   </component>
